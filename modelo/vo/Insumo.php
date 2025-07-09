@@ -17,6 +17,19 @@
     function getIdProduto() {
         return $this->idProduto;
     }
+    function setId($id) {
+        $this->id = $id;
+    }
+    function setNome($nome) {
+        $this->nome = $nome;
+    }
+    function setQtdEstoque($qtdEstoque) {
+        $this->qtdEstoque = $qtdEstoque;
+    }
+    function setIdProduto($idProduto) {
+        $this->idProduto = $idProduto;
+    }
+    
     
 
  }
