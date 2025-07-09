@@ -1,5 +1,5 @@
 <?php 
-//APENAS PARA MODIFICAR AUTOR
+
 class Pedido{
     private $id;
     private $idCliente;
@@ -31,3 +31,5 @@ class Pedido{
 
 
 }
+
+//Padrão de Projeto Singleton: Uma única instância dessa classe ou conexão com BD
