@@ -37,5 +37,7 @@ class PedidoProduto {
         function setPrecoUnitario($precoUnitario) {
             $this->PrecoUnitario = $PrecoUnitario;
 
+        }
+
         
       
