@@ -38,6 +38,7 @@ class PedidoProduto {
             $this->PrecoUnitario = $PrecoUnitario;
 
         }
+}
 
         
       
