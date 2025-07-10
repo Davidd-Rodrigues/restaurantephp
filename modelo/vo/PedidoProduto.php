@@ -34,7 +34,7 @@ class PedidoProduto {
         $this->Quantidade = $Quantidade;
         }
 
-        function setPrecoUnitario($precoUnitario) {
+     function setPrecoUnitario($precoUnitario) {
             $this->PrecoUnitario = $PrecoUnitario;
 
         }
